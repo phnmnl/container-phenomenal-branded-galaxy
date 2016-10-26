@@ -1,16 +1,16 @@
 
 ![Logo](rNMR_logo.gif)
 
-# rNMR
+# PhenoMeNAL Branded Galaxy
 Version: 1.0.0
 
 ## Short Description
 
 <!-- 
-This should only be 20 to 40 words, hopefully a single sentence.
+This should only be 20, hopefully a single sentence.
 -->
 
-Open source software for identifying and quantifying metabolites in NMR spectra.
+Galaxy with PhenoMeNal brand and skin.
 
 ## Description
 
