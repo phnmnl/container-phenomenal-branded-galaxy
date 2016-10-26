@@ -1,5 +1,5 @@
 
-![Logo](rNMR_logo.gif)
+![Logo](logo.png)
 
 # PhenoMeNaL Galaxy
 Version: 1.0.0
@@ -69,10 +69,4 @@ docker run docker-registry.phenomenal-h2020.eu/phnmnl/galaxy-k8s-branded ...
 
 ## Publications
 
-<!-- Guidance:
-Use AMA style publications as a list (you can export AMA from PubMed, on the Formats: Citation link when looking at the entry).
-IMPORTANT: Publications sectio must be placed at the end and cannot be emptied!
--->
-
 - Goecks, J., Nekrutenko, A., & Taylor, J. (2010). Galaxy: a comprehensive approach for supporting accessible, reproducible, and transparent computational research in the life sciences. Genome biology, 11(8), 1.
-- 
