@@ -1,7 +1,7 @@
 
 ![Logo](rNMR_logo.gif)
 
-# PhenoMeNAL Branded Galaxy
+# PhenoMeNaL Galaxy
 Version: 1.0.0
 
 ## Short Description
@@ -10,35 +10,28 @@ Version: 1.0.0
 This should only be 20, hopefully a single sentence.
 -->
 
-Galaxy with PhenoMeNal brand and skin.
+PhenoMeNal Galaxy with PhenoMeNal branded skin.
 
 ## Description
-
-
+The PhenoMeNal Galaxy has reached a stage where proof-of-concept integration between VMIs and containers is operational, and where initial services make it possible to carry out pieces of analysis workflows within the Galaxy. This tool provision virtual infrastructures using contextualization tools (MANTL, Terraform, and Ansible) and demonstrated them to instantiate PhenoMeNal Galaxy on local hardware, private cloud installations, and public cloud providers. 
 
 ## Key features
 
-- 
+- Platform for containerised tools
+- Workflows
 
 ## Functionality
 
-- Annotation / NMR
-- Post-processing
+- Workflows
 
 ## Approaches
-
-- Metabolomics / Targeted
   
 ## Instrument Data Types
-
-- NMR / 1D NMR
-- NMR / 2D NMR / 2D TOCSY
-- NMR / 1H NMR
 
 ## Screenshots
 
 Screen shots obtained from the original rNMR page.
-![screenshot](screenshots/s1.jpg)
+![screenshot](screenshots/fl-galaxy.png)
 
 ## Tool Authors
 
@@ -47,23 +40,23 @@ Screen shots obtained from the original rNMR page.
 
 ## Container Contributors
 
-- [Kristian Peters](https://github.com/korseby) (IPB Halle)
+- [Sijin He](https://github.com/sh107) (EMBL-EBI)
 
 ## Website
 
-- http://rnmr.nmrfam.wisc.edu/
+- http://public.phenomenal-h2020.eu/
 
 
 ## Git Repository
 
-- https://github.com/phnmnl/container-rnmr.git
+- https://github.com/phnmnl/container-phenomenal-branded-galaxy.git
 
 ## Installation 
 
 For local individual installation:
 
 ```bash
-docker pull docker-registry.phenomenal-h2020.eu/phnmnl/rnmr
+docker pull docker-registry.phenomenal-h2020.eu/phnmnl/galaxy-k8s-branded
 ```
 
 ## Usage Instructions
@@ -71,7 +64,7 @@ docker pull docker-registry.phenomenal-h2020.eu/phnmnl/rnmr
 For direct docker usage:
 
 ```bash
-docker run docker-registry.phenomenal-h2020.eu/phnmnl/rnmr ...
+docker run docker-registry.phenomenal-h2020.eu/phnmnl/galaxy-k8s-branded ...
 ```
 
 ## Publications
@@ -81,4 +74,5 @@ Use AMA style publications as a list (you can export AMA from PubMed, on the For
 IMPORTANT: Publications sectio must be placed at the end and cannot be emptied!
 -->
 
-- Lewis IA, Schommer SC, Markley JL. rNMR: open source software for identifying and quantifying metabolites in NMR spectra. Magnetic Resonance in Chemistry . 2009;47(S1):S123-S126. doi:10.1002/mrc.2526.
+- Goecks, J., Nekrutenko, A., & Taylor, J. (2010). Galaxy: a comprehensive approach for supporting accessible, reproducible, and transparent computational research in the life sciences. Genome biology, 11(8), 1.
+- 
