@@ -35,8 +35,9 @@ Screen shots obtained from the original rNMR page.
 
 ## Tool Authors
 
-- Ian A. Lewis (University of Calgary)
-- Seth C. Schommer (Wisconsin-Madison University and Sunquest Information Systems)
+- Jeremy Goecks (Emory University)
+- Seth C. Schommer (Penn State University)
+- James Taylor (Emory University)
 
 ## Container Contributors
 
