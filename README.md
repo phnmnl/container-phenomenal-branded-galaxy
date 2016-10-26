@@ -30,7 +30,6 @@ The PhenoMeNal Galaxy has reached a stage where proof-of-concept integration bet
 
 ## Screenshots
 
-Screen shots obtained from the original rNMR page.
 ![screenshot](screenshots/fl-galaxy.png)
 
 ## Tool Authors
