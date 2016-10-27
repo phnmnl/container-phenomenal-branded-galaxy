@@ -1,7 +1,7 @@
 
-![Logo](logo.png)
+![Logo](logo1.png)
 
-# PhenoMeNaL Galaxy
+# PhenoMeNaL Workflows Powered by Galaxy
 Version: 1.0.0
 
 ## Short Description
