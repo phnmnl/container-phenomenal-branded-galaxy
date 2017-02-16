@@ -1,6 +1,10 @@
-FROM docker-registry.phenomenal-h2020.eu/phnmnl/galaxy-k8s-runtime
+FROM container-registry.phenomenal-h2020.eu/phnmnl/galaxy-k8s-runtime
 MAINTAINER PhenoMeNal-H2020 Project <phenomenal-h2020-users@googlegroups.com>
-LABEL Description="Galaxy test for running inside Kubernetes."
+LABEL Description="Branded Galaxy for running inside Kubernetes."
+
+LABEL software.version="16.07-pheno"
+LABEL version="0.2"
+LABEL software="PhenoMeNal Galaxy"
 
 # Galaxy is currently on /galaxy, and that is the current work directory
 
